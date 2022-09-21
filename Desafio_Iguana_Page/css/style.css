@@ -1,0 +1,100 @@
+body {
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .header{
+      margin-top:-3.125rem;
+      margin-bottom:-3.125rem;
+      font-size: 3.125rem;
+  }
+
+  .seccion1{
+    display: inline-block;
+    width:100%;
+  }
+
+  .seccion2{
+      text-align: center;
+      margin: 0 auto;
+      padding:4.75em 0;
+      width:100%;
+  }
+
+  .seccion2_texto{
+    font-size:1rem;
+    font-weight:300;
+    text-align: justify;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left:4.3em;
+    padding-right:4.8em;
+    width:37%;
+
+  }
+
+  .seccion2_imagen{
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+}
+    .seccion2_imagen img{
+    width:100%;
+}
+
+.seccion3{
+    background-color: #1E1A13;
+    width:100%;
+}
+
+.seccion3_titulo{
+    font-size: 2.5em;
+    padding-top:0.7em;
+}
+
+.seccion3_cuerpo{
+    padding-top:3.125em;
+    padding-bottom:3.125em;
+    width:100%;
+}
+.seccion3_iconos{
+    display:inline-block;
+    width:30%;
+    font-size:1.5em;
+}
+
+.seccion3_iconos i{
+    width:100%;
+}
+
+
+.seccion4{
+    background-color: #000000;
+    margin-top:4.5em;
+    margin-bottom: 4.5em;
+    width:100%;
+}
+.seccion4_fotos{
+    display:inline-block;
+    width:25%;
+    height:12.6em;
+    vertical-align: middle;
+}
+
+.seccion4_fotos img{
+    width:100%;
+    height:100%;
+}
+
+.seccion5{
+    background-color: #1E1A13;
+    padding-top:1.6em;
+    padding-bottom: 1.6em;
+    width:100%;
+    font-size:1.25;
+
+}
